@@ -1,6 +1,6 @@
 {
   "name": "pandora-store",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Experimental Redux clone built with pure Javascript, tests and love",
   "main": "index.js",
   "scripts": {
