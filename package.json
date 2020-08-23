@@ -8,7 +8,8 @@
     "test:coverage": "jest --verbose ./**/*.test.js --coverage",
     "test:watch": "jest --verbose ./**/*.test.js --watchAll",
     "lint": "standard",
-    "lint:fix": "standard --fix"
+    "lint:fix": "standard --fix",
+    "docs": "jsdoc -d docs ./lib/pandora-store.js"
   },
   "standard": {
     "env": [
