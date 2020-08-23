@@ -28,7 +28,11 @@
   "devDependencies": {
     "husky": "^4.2.5",
     "jest": "^26.4.2",
+    "jsdoc": "^3.6.5",
     "standard": "^14.3.4"
+  },
+  "dependencies": {
+    "debug": "^4.1.1"
   },
   "husky": {
     "hooks": {
