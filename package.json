@@ -1,0 +1,19 @@
+{
+  "name": "pandora-store",
+  "version": "0.0.1",
+  "description": "Experimental Redux clone built with pure Javascript, tests and love",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoolTheba/pandora-store.git"
+  },
+  "author": "KoolTheba",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/KoolTheba/pandora-store/issues"
+  },
+  "homepage": "https://github.com/KoolTheba/pandora-store#readme"
+}
